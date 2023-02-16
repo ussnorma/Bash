@@ -1,0 +1,5 @@
+FS_USERNAME="root"
+FS_IP="x.x.x.x"
+CURR_DATE=$(date +%F)
+W_BACKUP="/root/test_backup/"
+DIR="/root/backups"
